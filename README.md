@@ -1,6 +1,6 @@
 # dictionary-of-colour-combinations
 
-A JSON dataset of 348 colour combinations (of 2, 3, and 4 colours) of 159 unique colours, from the book ["A Dictionary of Colour Combinations"](https://coloursmayvary.com/products/copy-of-a-dictionary-of-colour-combinations-by-sanzo-wada) compiled by Sanzo Wada (1883 – 1967) and published by Seigensha Art.
+A JSON dataset of 348 colour combinations (of 2, 3, and 4 colours) of 159 unique colours, from the book ["A Dictionary of Colour Combinations"](https://coloursmayvary.com/collections/book-1/products/a-dictionary-of-colour-combinations-by-sanzo-wada-vol-1) compiled by Sanzo Wada (1883 – 1967) and published by Seigensha Art.
 
 ![book](./images/print.jpg)
 
